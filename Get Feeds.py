@@ -135,8 +135,8 @@ def filter_period(versions, start, end):
     '''
     Define a function that filters out the feeds within
     a specific study period:
-    Start date <= start date of study period
-    End date >= end date of study period
+
+
     '''
     to_keep = []
     pairs = []
